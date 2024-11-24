@@ -1,0 +1,48 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "9e0fbed33b234968b3a3dbcf9320b6bd230e90b39c041626cbb535317d956ebb"
+    }
+  ],
+  "containerPath" : "/Users/nicholasdalba/Developer/Memorize 2/Memorize 2.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/nicholasdalba/Developer/Memorize 2/DerivedData/Memorize 2/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/nicholasdalba/Developer/Memorize 2/DerivedData/Memorize 2/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Users/nicholasdalba/Developer/Memorize 2/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/nicholasdalba/Developer/Memorize 2/DerivedData/Memorize 2/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/nicholasdalba/Developer/Memorize 2/DerivedData/Memorize 2/Index.noindex/PrecompiledHeaders",
+      "indexRegularBuildIntermediatesPath" : "/Users/nicholasdalba/Developer/Memorize 2/DerivedData/Memorize 2/Build/Intermediates.noindex",
+      "indexRegularBuildProductsPath" : "/Users/nicholasdalba/Developer/Memorize 2/DerivedData/Memorize 2/Build/Products",
+      "pchPath" : "/Users/nicholasdalba/Developer/Memorize 2/DerivedData/Memorize 2/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

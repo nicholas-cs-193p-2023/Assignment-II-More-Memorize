@@ -1,0 +1,27 @@
+{
+  "" : {
+    "dependencies" : "/Users/nicholasdalba/Developer/Memorize 2/DerivedData/Memorize 2/Index.noindex/Build/Intermediates.noindex/Memorize 2.build/Debug-iphoneos/Memorize 2.build/Objects-normal/arm64/Memorize 2-master.d",
+    "diagnostics" : "/Users/nicholasdalba/Developer/Memorize 2/DerivedData/Memorize 2/Index.noindex/Build/Intermediates.noindex/Memorize 2.build/Debug-iphoneos/Memorize 2.build/Objects-normal/arm64/Memorize 2-master.dia",
+    "emit-module-dependencies" : "/Users/nicholasdalba/Developer/Memorize 2/DerivedData/Memorize 2/Index.noindex/Build/Intermediates.noindex/Memorize 2.build/Debug-iphoneos/Memorize 2.build/Objects-normal/arm64/Memorize 2-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/nicholasdalba/Developer/Memorize 2/DerivedData/Memorize 2/Index.noindex/Build/Intermediates.noindex/Memorize 2.build/Debug-iphoneos/Memorize 2.build/Objects-normal/arm64/Memorize 2-master-emit-module.dia",
+    "swift-dependencies" : "/Users/nicholasdalba/Developer/Memorize 2/DerivedData/Memorize 2/Index.noindex/Build/Intermediates.noindex/Memorize 2.build/Debug-iphoneos/Memorize 2.build/Objects-normal/arm64/Memorize 2-master.swiftdeps"
+  },
+  "/Users/nicholasdalba/Developer/Memorize 2/DerivedData/Memorize 2/Index.noindex/Build/Intermediates.noindex/Memorize 2.build/Debug-iphoneos/Memorize 2.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+
+  },
+  "/Users/nicholasdalba/Developer/Memorize 2/Memorize 2/EmojiMemoryGame.swift" : {
+
+  },
+  "/Users/nicholasdalba/Developer/Memorize 2/Memorize 2/EmojiMemoryGameView.swift" : {
+
+  },
+  "/Users/nicholasdalba/Developer/Memorize 2/Memorize 2/MemorizeApp.swift" : {
+
+  },
+  "/Users/nicholasdalba/Developer/Memorize 2/Memorize 2/MemoryGame.swift" : {
+
+  },
+  "/Users/nicholasdalba/Developer/Memorize 2/Memorize 2/MemoryGameTheme.swift" : {
+
+  }
+}
